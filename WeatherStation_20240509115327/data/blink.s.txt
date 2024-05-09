@@ -1,0 +1,12 @@
+global asm_add_
+1_16bit
+﻿global asm
+_add
+1_16bit_hibas
+asm add
+16bit:
+add R24, R22
+adc R25, R23 ret
+asm add 16bit hibas:
+add R25, R23
+adc R24, R22 ret
